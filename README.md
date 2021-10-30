@@ -1,11 +1,12 @@
 # Cub3d
 
-How to run it
+How to run it-
 Using make bonus will build the executable and run it.
 
 To run it again without remaking, you can simply run the executable with ./cub3D.
 
-Controls
+Controls:
+
 You can move around the maze with W A S D.
 
 You can also rotate the view with the directional arrows ← and →.
